@@ -1,7 +1,7 @@
 # Webmkr.py
-[![Documentation Status](https://readthedocs.org/projects/webmkrpy/badge/?version=latest)](https://webmkrpy.readthedocs.io/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/581b5701-5a3f-4a38-9a41-83886fd8b82e/deploy-status)](https://app.netlify.com/sites/webmkr-py/deploys)
 
-Using my own static website maker webmkr.py
+Made Using my own static website maker webmkr.py
 
 # Host yourself
 
